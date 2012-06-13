@@ -1,0 +1,12 @@
+-----------------------AMAZON-DETAILS------------------------------------
+
+Nexus     :  ssh -i phresco.pem ec2-user@23.21.177.233
+
+
+service   :  ssh -i phresco.pem ec2-user@23.21.45.193
+
+----------------------------------------------------------------------------
+---STAGING---
+
+staging 1 : ssh -i usstagin1.pem ec2-user@ec2-23-20-120-99.compute-1.amazonaws.com
+
